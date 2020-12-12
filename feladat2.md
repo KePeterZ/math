@@ -1,7 +1,5 @@
 # Feladat
-```js
 A robotikán Sztanó Ádám egy Legó versenyre készül. Házakat kell egymás mellé raknia, és ki kell számolnia, hogy melyikbe hány ember fér. Azt tudja, hogy egy mértani sorozattal van dolga, de még nem jött rá a szabályra. Az első ház lakosainak száma ismeretlen neki, viszont a másodikat és az ötödiket ismeri, 6 és 162. Kosztit is érdekli a feladat, ad egy csokit Ádámnak, ha megtudja mondani neki, hogy hány olyan ház van, ahol 9-nél többen laknak, viszont 1000-nél kevesebben. Segíts Ádámnak!
-```
 
 # Megoldás
 ```js

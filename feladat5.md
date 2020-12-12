@@ -1,7 +1,5 @@
 # Feladat
-```js
 Lóci egy matekórán egy trükkös kérdésen gondolkodott. Hogyan tudná a leggyorsabban összeadni az első n pozitív számot? És ha Lóci az első 200 számot szeretné összeadni? Írj neki egy könnyű egyenletet, ahol az n az első n szám amit összead!
-```
 
 # Válasz
 ```js

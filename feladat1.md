@@ -1,7 +1,5 @@
 # Feladat
-```js
 Az AKG-ban új épületet építenek, ahol egymás fölött van minden terem. Viszont a termek nem ugyanakkorák, hanem egyre nagyobbak. Alulról a harmadik teremben 4 ember fér el, a hetedikben pedig már 64. Mennyien férnek el a második emeleten?
-```
 
 # Megoldás
 ```js

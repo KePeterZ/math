@@ -1,7 +1,5 @@
 # 1. Feladat
-```js
 Az AKG-ban új épületet építenek, ahol egymás fölött van minden terem. Viszont a termek nem ugyanakkorák, hanem egyre nagyobbak. Alulról a harmadik teremben 4 ember fér el, a hetedikben pedig már 64. Mennyien férnek el a második emeleten?
-```
 
 ## Megoldás
 ```js
@@ -19,9 +17,7 @@ a[2] = 2 // 3p
 ```
 
 # 2. Feladat
-```js
 A robotikán Sztanó Ádám egy Legó versenyre készül. Házakat kell egymás mellé raknia, és ki kell számolnia, hogy melyikbe hány ember fér. Azt tudja, hogy egy mértani sorozattal van dolga, de még nem jött rá a szabályra. Az első ház lakosainak száma ismeretlen neki, viszont a másodikat és az ötödiket ismeri, 6 és 162. Kosztit is érdekli a feladat, ad egy csokit Ádámnak, ha megtudja mondani neki, hogy hány olyan ház van, ahol 9-nél többen laknak, viszont 1000-nél kevesebben. Segíts Ádámnak!
-```
 
 ## Megoldás
 ```js
@@ -45,9 +41,7 @@ n = [3,4,5,6] // 2p
 ```
 
 # 3. Feladat
-```js
 A Judit csibéből 5 gyerek egymás mellé rakták a telefonjukat, és észrevették, hogy a töltöttségi szintjük egy számtani sorozat. Balról az első telefon és az ötödik telefon töltöttségének összege 60 százalék volt. Az első 5 telefon együtt mennyire volt feltöltve?
-```
 
 ## Megoldás
 ```js
@@ -59,9 +53,7 @@ S[5] = 150 // 1p
 ```
 
 # 4. Feladat
-```js
 A Veni-Vidi-Vici évfolyamon mindenki kapott egy számot, és mindenki csak a másik számát tudta meg. Koszti (aki 50edik az ABC-ben) a 29-es számot kapta, P. B. Noel (aki 51edik az ABC-ben) pedig a 26-osat. A patrónusok elmondták azt is, hogy ABC sorrendben kapta meg mindenki egy számtani sorozat elemét. Koszti és Noel gondolkoznak.. Mi lehet Aletta száma? (Ő az első az ABC-ben.)
-```
 
 ## Megoldás
 ```js
@@ -74,9 +66,7 @@ a[1] = 176 // 2p
 ```
 
 # 5. Feladat
-```js
 Lóci egy matekórán egy trükkös kérdésen gondolkodott. Hogyan tudná a leggyorsabban összeadni az első n pozitív számot? És ha Lóci az első 200 számot szeretné összeadni? Írj neki egy könnyű egyenletet, ahol az n az első n szám amit összead!
-```
 
 ## Megoldás
 ```js

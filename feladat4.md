@@ -1,7 +1,5 @@
 # Feladat
-```js
 A Veni-Vidi-Vici évfolyamon mindenki kapott egy számot, és mindenki csak a másik számát tudta meg. Koszti (aki 50edik az ABC-ben) a 29-es számot kapta, P. B. Noel (aki 51edik az ABC-ben) pedig a 26-osat. A patrónusok elmondták azt is, hogy ABC sorrendben kapta meg mindenki egy számtani sorozat elemét. Koszti és Noel gondolkoznak.. Mi lehet Aletta száma? (Ő az első az ABC-ben.)
-```
 
 # Megoldás
 ```js
